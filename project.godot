@@ -19,6 +19,13 @@ config/icon="res://icon.svg"
 
 enabled=PackedStringArray("res://addons/godot_super-wakatime/plugin.cfg")
 
+[file_customization]
+
+folder_colors={
+"res://background/": "orange",
+"res://levels/": "yellow"
+}
+
 [input]
 
 jump={
@@ -50,3 +57,4 @@ left={
 
 rendering_device/driver.windows="d3d12"
 renderer/rendering_method="mobile"
+environment/defaults/default_clear_color=Color(0.38077658, 0.28261426, 0.13324723, 1)

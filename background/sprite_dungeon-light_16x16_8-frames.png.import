@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://davwd46v1cje1"
-path="res://.godot/imported/sprite_dungeon-light_16x16_8-frames.png-0f67a3107cfd434f24a8e7d1513fbf95.ctex"
+path="res://.godot/imported/sprite_dungeon-light_16x16_8-frames.png-faab452e482a81ec9c036484f1c9cda5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprite_dungeon-light_16x16_8-frames.png"
-dest_files=["res://.godot/imported/sprite_dungeon-light_16x16_8-frames.png-0f67a3107cfd434f24a8e7d1513fbf95.ctex"]
+source_file="res://background/sprite_dungeon-light_16x16_8-frames.png"
+dest_files=["res://.godot/imported/sprite_dungeon-light_16x16_8-frames.png-faab452e482a81ec9c036484f1c9cda5.ctex"]
 
 [params]
 

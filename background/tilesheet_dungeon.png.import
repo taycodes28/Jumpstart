@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://0d6diy75ik8w"
-path="res://.godot/imported/sprite_dungeon-gate_32x32_8-frames.png-392977659499570b0dcbd25a73936207.ctex"
+uid="uid://c4q6e64wniw5p"
+path="res://.godot/imported/tilesheet_dungeon.png-8df4f57be2b058e1a24cfd9ca8303874.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprite_dungeon-gate_32x32_8-frames.png"
-dest_files=["res://.godot/imported/sprite_dungeon-gate_32x32_8-frames.png-392977659499570b0dcbd25a73936207.ctex"]
+source_file="res://background/tilesheet_dungeon.png"
+dest_files=["res://.godot/imported/tilesheet_dungeon.png-8df4f57be2b058e1a24cfd9ca8303874.ctex"]
 
 [params]
 
